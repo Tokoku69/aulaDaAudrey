@@ -1,3 +1,4 @@
+Emerson e Luiz ATIVIDADE DE LÓGICA
 # Criação da matriz 3x3 e preenchimento com valores digitados pelo usuário
 matriz = [[], [], []]
 
@@ -25,3 +26,4 @@ print("\nResultados:")
 print(f"A) Soma dos valores pares: {soma_pares}")
 print(f"B) Soma dos valores da terceira coluna: {soma_terceira_coluna}")
 print(f"C) Maior valor da segunda linha: {maior_segunda_linha}")
+
